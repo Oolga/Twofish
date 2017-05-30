@@ -1,0 +1,16 @@
+<Models>
+<Model>
+		<ModelName>Test Model</ModelName>
+		<ServerName>TestServer</ServerName>
+		<DatabaseName>TestDB</DatabaseName>
+		<TableName>TestTable</TableName>
+		<XMLName>test.xml</XMLName>
+</Model>
+<Model>
+		<ModelName>Test Model 2</ModelName>
+		<ServerName>TestServer<2/ServerName>
+		<DatabaseName>TestDB2</DatabaseName>
+		<TableName>TestTable<2/TableName>
+		<XMLName>test2.xml</XMLName>
+</Model>
+</Models>
